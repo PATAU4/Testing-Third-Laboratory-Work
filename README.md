@@ -5,7 +5,6 @@
 
 ## Функций работы с API:
 
-<img width="303" alt="Снимок экрана 2021-12-19 в 13 21 23" src="https://user-images.githubusercontent.com/90206600/146671600-bb91c608-7251-481a-834b-6138f25c2be9.png">
 
 В данных программах реализованы методы: GET, POST, PUT, DELETE
 
